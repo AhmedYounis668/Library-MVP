@@ -1,0 +1,8 @@
+E:\2023\C# with MVP pattern\Library MVP\Library MVP\bin\Debug\Library MVP.exe
+E:\2023\C# with MVP pattern\Library MVP\Library MVP\bin\Debug\Library MVP.pdb
+E:\2023\C# with MVP pattern\Library MVP\Library MVP\obj\Debug\Library MVP.csprojAssemblyReference.cache
+E:\2023\C# with MVP pattern\Library MVP\Library MVP\obj\Debug\Library_MVP.Properties.Resources.resources
+E:\2023\C# with MVP pattern\Library MVP\Library MVP\obj\Debug\Library MVP.csproj.GenerateResource.cache
+E:\2023\C# with MVP pattern\Library MVP\Library MVP\obj\Debug\Library MVP.csproj.CoreCompileInputs.cache
+E:\2023\C# with MVP pattern\Library MVP\Library MVP\obj\Debug\Library MVP.exe
+E:\2023\C# with MVP pattern\Library MVP\Library MVP\obj\Debug\Library MVP.pdb
